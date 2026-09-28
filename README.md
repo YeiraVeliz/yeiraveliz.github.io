@@ -1,12 +1,16 @@
-# Yeira Veliz | Data Science & AI Aspirant 🚀
+# Yeira Veliz | Data Science & AI Aspirant
 
-Welcome to my portfolio. I am highly interested in Artificial Intelligence, Data Analytics, and technology ethics. 
+I am an independent researcher and developer focusing on the technical foundations of Data Science and Artificial Intelligence. My objective is to bridge computational engineering with a rigorous analysis of data systems and technology ethics.
 
-I am currently starting my journey in this field, and I will be using this space to share my academic essays, research, and tech insights as I learn.
+This platform serves as a technical workspace to archive my milestones, independent documentation, and analytical research.
 
-## ✍️ Upcoming Essays & Research
-* *In Progress:* My first articles on AI ethical impacts and data privacy will be published here soon.
+## Technical Publications & Assets
 
-## 📊 Tech Stack & Learning Goals
-* 🌱 Currently exploring: Git, GitHub, and the basics of Data Science.
-* 🎯 Future goals: Python programming and Machine Learning experiments.
+* **Essays in Progress:** Analytical research focusing on AI ethical frameworks and contemporary data privacy challenges.
+* **Technical Documentation:** Comprehensive guides, repository workflows, and structural overviews of my implementation processes.
+* **Case Studies:** Objective breakdowns of industry-standard data models and technological deployments.
+
+## Technical Stack & Objectives
+
+* **Core Tools:** Version control workflows using Git and GitHub, alongside foundational principles of data analysis.
+* **Development Path:** Acquiring advanced proficiency in Python programming and establishing structured environments for Machine Learning.
